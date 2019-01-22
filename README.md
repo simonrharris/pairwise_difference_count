@@ -5,6 +5,5 @@ Counts pairwise differences between sequences in DNA alignments
 ```pairwise_difference_count.py [options] args
 
 Options:
-  -h, --help            show this help message and exit
-  -a FILE, --alignment=FILE
-                        alignment file name```
+  -h, --help                      show this help message and exit
+  -a FILE, --alignment=FILE       alignment file name```
